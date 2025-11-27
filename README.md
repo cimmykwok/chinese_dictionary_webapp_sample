@@ -13,7 +13,7 @@ You can explore and use the application here:
 
 ## 💻 Local Development Setup
 
-This project uses **React** and **Vite** for a speedy development experience.
+This project uses **React** and **Vite** for development.
 
 ### Data Source
 
