@@ -13,7 +13,7 @@ You can explore and use the application here:
 
 ## 💻 Local Development Setup
 
-This project uses **Node.js** for development.
+This project is a **React** application that utilizes **Firebase** for data management and uses **Node.js** for its development and build environment.
 
 ### Data Source
 
