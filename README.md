@@ -13,7 +13,7 @@ You can explore and use the application here:
 
 ## 💻 Local Development Setup
 
-This project uses **React** and **Vite** for development.
+This project uses **Node.js** for development.
 
 ### Data Source
 
