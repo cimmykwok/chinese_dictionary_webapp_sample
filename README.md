@@ -20,7 +20,7 @@ This project is a **React** application that utilizes **Firebase** for data mana
 The primary vocabulary data for this application comes from:
 
 * **Original Project**: `https://github.com/mapull/chinese-dictionary/`
-* **Conversion Note**: The file `src/data/dictionary_data.json` was converted from the original source's Simplified Chinese data into **Traditional Chinese** for use in this application.
+* **Conversion Note**: The sample data file `src/data/dictionary_data.json` was converted from the original source's Simplified Chinese data into **Traditional Chinese** for use in this application.
 
 ### Prerequisites
 
